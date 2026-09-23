@@ -20,6 +20,9 @@
       "status": "pending",
       "repairNote": "",
       "batchId": null,
+      "grainAngle": 90,
+      "repairDirection": 88,
+      "paperBatchId": "PAPER-2026-A01",
       "createdAt": "2026-06-16T00:00:00.000Z",
       "repairedAt": null
     },
@@ -33,6 +36,9 @@
       "status": "pending",
       "repairNote": "",
       "batchId": null,
+      "grainAngle": 0,
+      "repairDirection": 12,
+      "paperBatchId": "PAPER-2026-A01",
       "createdAt": "2026-06-16T00:00:00.000Z",
       "repairedAt": null
     }
